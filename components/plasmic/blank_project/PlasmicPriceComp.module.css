@@ -1,0 +1,80 @@
+.frame77 {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  flex-direction: row;
+  position: relative;
+}
+.frame77 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.frame77 > :global(.__wab_flex-container) > *,
+.frame77 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame77 > :global(.__wab_flex-container) > picture > img,
+.frame77
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  display: block !important;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.frame67 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.frame67 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: calc(0px - 2px);
+  height: calc(100% + 2px);
+}
+.frame67 > :global(.__wab_flex-container) > *,
+.frame67 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame67 > :global(.__wab_flex-container) > picture > img,
+.frame67
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 2px;
+}
+.slotTargetChildren {
+  font-family: var(--token-2AtVoe2jt);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--token-o-NASav1A);
+  line-height: 14px;
+  letter-spacing: 0em;
+}
+.slotTargetSlot {
+  font-family: "Roboto Mono";
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--token-e45-V13on);
+  line-height: 14px;
+  letter-spacing: 0em;
+}
